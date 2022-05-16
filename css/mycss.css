@@ -1,0 +1,76 @@
+.carousel-item img {
+    height:400px; 
+}
+
+.container-fluid{
+    background-image: url("./images/bg-motif.jpeg");
+    background-color:rgb(3, 25, 38);
+}
+
+
+
+.navbar-light {
+    background-color: white;
+}
+.navbar {
+    margin-top: 0.5rem;
+}
+
+.bodyDiv{
+    background-color: white;
+    padding: 1rem;
+    margin: 0.1rem 0px;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.btn-primary:hover{
+    background-color:#d72525;
+    
+    
+}
+
+.nav-link:focus, .nav-link:hover{
+    color: #d72525;
+}
+
+.btn-primary {
+    background-color:#d72525;
+    border-color : #d72525;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color:#d72525;
+}
+
+.footerDiv {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: gray;
+    
+}
+.footerDiv .row{
+    padding: 0.7rem;
+}
+.footerDiv p {
+    margin: 0;
+}
+.bodyDiv p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bodyDiv h4 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.card-header h4 {
+    background-color: aqua;
+    background-image:url("./images/bg-arabic.jpg")
+}
+
